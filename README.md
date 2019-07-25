@@ -21,7 +21,8 @@ make
 ### Features
 
 ```
-- Custom maps can be used as long as they respect the map.txt file's constraints (characters 1 and space to describe walls and empty spaces).
+- Custom maps can be used as long as they respect the map.txt file's constraints: characters 1 and space
+  to describe walls and empty spaces).
 
 - Move with arrows, rotate with keys A and D.
 
@@ -37,3 +38,14 @@ make
 <img alt="sample" src="./readme_img/3.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/4.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/5.png" width="100%" title="profile">
+
+
+### Developed with
+
+```
+
+C
+
+MinilibX (Ecole 42 graphic library)
+
+```
