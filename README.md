@@ -30,16 +30,6 @@ make
 
 ```
 
-
-### Gallery
-
-<img alt="sample" src="./readme_img/1.png" width="100%" title="profile">
-<img alt="sample" src="./readme_img/2.png" width="100%" title="profile">
-<img alt="sample" src="./readme_img/3.png" width="100%" title="profile">
-<img alt="sample" src="./readme_img/4.png" width="100%" title="profile">
-<img alt="sample" src="./readme_img/5.png" width="100%" title="profile">
-
-
 ### Developed with
 
 ```
@@ -49,3 +39,11 @@ C
 MinilibX (Ecole 42 graphic library)
 
 ```
+
+### Gallery
+
+<img alt="sample" src="./readme_img/1.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/2.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/3.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/4.png" width="100%" title="profile">
+<img alt="sample" src="./readme_img/5.png" width="100%" title="profile">
